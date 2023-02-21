@@ -11,11 +11,11 @@
 
 아래 폴더에서 작성됩니다.  
 pre  
-[AP-Calculus](Economic_major_freshman/calculus/pages.md)(updated 2023-02-21)  
-[통계학](Economic_major_freshman/statistics/pages.md)(updated 2023-02-21)  
-[미시경제학 원론](Economic_major_freshman/micro_economics/pages.md)(updated 2023-02-21)  
-[거시경제학 원론](Economic_major_freshman/macro_economics/pages.md)(updated 2023-02-21)  
-[경제사](Economic_major_freshman/economic_history/pages.md)(updated 2023-02-21)  
+[AP-Calculus](/calculus/pages.md)(updated 2023-02-21)  
+[통계학](/statistics/pages.md)(updated 2023-02-21)  
+[미시경제학 원론](/micro_economics/pages.md)(updated 2023-02-21)  
+[거시경제학 원론](/macro_economics/pages.md)(updated 2023-02-21)  
+[경제사](/economic_history/pages.md)(updated 2023-02-21)  
 
 1학년 때는 경제학의 기본적인 틀과 역사 그리고 경제학의 큰그림을 그리고 경제학의 대상을 명확히 하며, 파이썬과 줄리아 언어 등을 통해서 자신의 이론을 설명할 수 있도록 할 도구에 대한 공부를 지속적으로 해본다.  
 
