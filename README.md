@@ -21,9 +21,19 @@ pre
 
 ## 읽어야할 책목록
 
-## Links
+## Links  
 
-<https://quantecon.org>
+[quantecon-stie](https://quantecon.org)
+- quantative 한 julia와 python으로 거시 경제학 등의 주제를 공부해 볼 수 있을 것이다.
+
+[서지관리 프로그램 zotero 그리고 자료들의 정리](https://www.zotero.org/)
+- 경제학과에 오면 다양한 논무들을 탐색 해야하는 순간들이 자주 온다. 서지관리 소프트웨어를 이용해서 논문 혹은 자료들을 전공별로 잘 정리해두면 나중에 제텔카스텐 노트법을 이용해서 스스로의 공부 내용을 유기적으로 정리하기 좋다. 
+
 [파이썬 배울 수 있는 자료](http://egallic.fr/Enseignement/Python/en/_main.pdf)
+- 기초적인 파이썬 공부 내용이 들어있으며 OOP까지는 진행하는 것을 추천  
+
 [계량경제학 맛보기](https://pyecon.org/lecture/)
-[읽어볼만한 자료](https://janboone.github.io/python_economics/economics.html)
+- 계량경제학을 파이썬으로 맛볼 수 있는 좋은 기회
+
+[Doing economics with python](https://janboone.github.io/python_economics/economics.html)
+- 1학년 말에 작성해서 각자만의 경제학적 시각을 실증과 시뮬레이션 그리고 데이터를 통해서 적어 볼 수 있는 기회 , 포멧과 글의 과정을 잘 참고하여 따라해보는 것을 추천한다. 
