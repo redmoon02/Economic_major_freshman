@@ -47,3 +47,21 @@ numpy 기초와 julia 기초
 제약식 없는 최적화
 등식제약하 최적화
 라그랑주
+  
+
+기본적인 개념을 위한 (대학교 1,2학년의 과학지식이 일정량 필요하기도 하다. 물리학과 일반화학정도의 일반-각론 정도의 수준 즉 어디서 찾을 수 있는지 정도는 찾아보자)
+아래는 링크로 도움이 될 자료들을 링크한다.   
+
+파이썬 시뮬레이션 툴  
+https://github.com/AstusRush/AMaDiA
+  
+일반화학 내용   
+https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html
+
+
+파이썬으로 물리학에서 사용하는 피팅 적용해보기  
+https://www.authorea.com/users/18589/articles/304710-a-short-guide-to-using-python-for-data-analysis-in-experimental-physics#
+
+
+how to use git  
+https://gitbookdown.dallasdatascience.com
