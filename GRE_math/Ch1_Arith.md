@@ -107,7 +107,7 @@ The set of __real numbers__ consists of all rational numbers and all irrational 
 
 * Interval
 
-$x\<y$ means that a real number $x$ is less than a real number $y$. Also, a real number $y$ is greater than $x$.
+$x\geq y$ means that a real number $x$ is less than a real number $y$. Also, a real number $y$ is greater than $x$.
 
 ## 1.6 Ratio
 If $s$ and $t$ are positive quantities, then the ratio of $s$ to $t$ can be written as the fraction $\frac{s}{t}$ and the ratio $s:t$
