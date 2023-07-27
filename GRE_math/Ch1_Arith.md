@@ -103,7 +103,7 @@ Such numbers are called __irrational numbers__.
 
 ## 1.5 Real Numbers
 The set of __real numbers__ consists of all rational numbers and all irrational numbers. The set of real numbers can be represented by a number line is called the __real number line__.
-![real number line](https://images.app.goo.gl/ufChKptxVNFAvk4A7)
+![real number line](/Users/chaeyeonpark/github_code_repo/Economic_clone_repo/Economic_major_freshman/GRE_math/Screenshot 2023-07-27 at 2.59.33 PM.png)
 
 * Interval
 
@@ -122,21 +122,23 @@ $$x=\frac{(3)(49)}{21}=7$$
 
 The term __percent__ means _per hundred_, or _hundredths_. Percents are ratios that are often used to represent _parts of a whole_.
 
-<center>* 1 pecent means 1 part out of 100 parts, or $\frac{1}{100}$<\center>
+1 pecent means 1 part out of 100 parts, or $\frac{1}{100}$
 
-$$\frac{part}{whole}&\frac{amount of increase or decrease}{base}$$
+$$\frac{part}{whole} \approx \frac{amount of increase or decrease}{base}$$
 
 * Percent vs Percent point
 
 The term __percent point__ means a differnece between percent and percent; a unit, %p, pp. 
 
 For example,
-$$increasing from 50% to 60%, it increases 20% or 10%p $$ 
-$$decreasing from 2% to 1%, it decreases 50% or 1%p$$
+
+increasing from 50% to 60%, it increases 20% or 10%p
+
+decreasing from 2% to 1%, it decreases 50% or 1%p
 
 So, you should check either percent or percent point when you analyze datas.
 
 
 
 # reference 
-
+gre_math_review
