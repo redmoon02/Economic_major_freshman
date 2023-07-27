@@ -103,11 +103,11 @@ Such numbers are called __irrational numbers__.
 
 ## 1.5 Real Numbers
 The set of __real numbers__ consists of all rational numbers and all irrational numbers. The set of real numbers can be represented by a number line is called the __real number line__.
-![real number line](/Users/chaeyeonpark/github_code_repo/Economic_clone_repo/Economic_major_freshman/GRE_math/Screenshot 2023-07-27 at 2.59.33 PM.png)
+![real number line](./Screenshot%202023-07-27%20at%202.59.33%20PM.png)
 
 * Interval
 
-$x<y$ means that a real number $x$ is less than a real number $y$. Also, a real number $y$ is greater than $x$.
+$x\<y$ means that a real number $x$ is less than a real number $y$. Also, a real number $y$ is greater than $x$.
 
 ## 1.6 Ratio
 If $s$ and $t$ are positive quantities, then the ratio of $s$ to $t$ can be written as the fraction $\frac{s}{t}$ and the ratio $s:t$
