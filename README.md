@@ -11,6 +11,7 @@
 
 아래 폴더에서 작성됩니다.  
 pre  
+GRE_math 파트 추가중 ...
 [AP-Calculus](/calculus/pages.md)(updated 2023-02-21)  
 [통계학](/statistics/pages.md)(updated 2023-02-21)  
 [미시경제학 원론](/micro_economics/pages.md)(updated 2023-02-21)  
