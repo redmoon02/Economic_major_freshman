@@ -63,6 +63,43 @@ Make cofficients of x the same by multiplying. Then, if you substract the second
 
 # 2.4 Solving Quadratic Equation
 
----
+A basic form of a __quadratic equation__ is;
+$$ax^2+bx+c=0$$
+where a, b, and c are real numbers and $a \neq 0$. You can solve this equation using the __quadratidc formula__:
+$$x= \frac{-b+-\sqrt{(b^2-4ac)}}{2a}$$
+Usually quadratic equations have two real solutions, but when the expression under the square root symbol is equal to 0, they have only one real solution.
+
+Some quadratic equations can be solved more quickly by factoring. 
+$$2x^2-x-6=0$$
+$$(2x+3)(x-2)=0$$
+$$x=-\frac{3}{2} or x=2$$
+
+# 2.5 Solving Linear Inequalities
+
+A mathematical statement that uses one of the following inequality signs is called an __inequality__.
+
+
+# 2.6 Function
+
+An algebraic expression in one variable can be used to define a __function__ of that variable. An algebraic expression $3x+5$ can be used to defind a function $f$ by
+$$f(x)=3x+5$$
+where $f(x)$ is called the value of $f$ at $x$ and is obtained by substituting the value of x in the expression above. If $x=2$, the result is $f(2)=11$
+
+There is a basic rule to be a function.
+
+* Each domain has only one result.(But domains can have the same result.)
+
+
+# 2.7 Application 
+
+# 2.8 Coordinate Geometry
+
+rectangular coordinate system, often called the xy-coordinate system or xy-plane. The horizontal number line is the x-axis and the vertical number line is the y-axis.
+The point that two axes interect at 0 is called the origin, denoted by $O$. The plane is divided into four regions called quadrants 1, 2, 3, and 4.
+
+# 2.9 Graphs of Functions
+
+
+-------
 # How to speak in English
 $4(x+3)$ as 4 times x minus 3
