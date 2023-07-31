@@ -58,7 +58,7 @@ Every triangle has three sides and three interior angles.
 ## How to measure area of triangle
 
 The area of a triangle equals one-half the length of a vase and the height corresponding to the vase.
-![areas](Screenshot%202023-07-31%20at%203.16.18%20PM.png)
+![areas](<Screenshot 2023-07-31 at 3.16.18 PM.png>)
 Three triangles above have areas, $\frac{(15)(6)}{2}$, or 45.
 
 # 3.4 Quadrilaterals
